@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) :seedling: :microscope: and I specialize in bioinformatics :computer: 
+
+A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals :syringe:
+
+_"Essentially, all models are wrong, but some are useful" - George E.P. Box_
+
+
 <!--
 **SandraKla/SandraKla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
