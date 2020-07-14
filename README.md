@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) :seedling: :microscope: and I specialize in bioinformatics :computer: 
+My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) :seedling: :microscope: with the focus on bioinformatics :computer: 
 
 A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals :syringe:
 
