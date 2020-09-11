@@ -6,6 +6,7 @@ A wide and interesting field, which brings new challenges every day! I’m curre
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
 
+![Sandra's github stats](https://github-readme-stats.vercel.app/api?username=SandraKla&show_icons=true) 
 
 <!--
 **SandraKla/SandraKla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
