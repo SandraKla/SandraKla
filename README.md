@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) 🌱🔬 with the focus on bioinformatics 💻 
+My name is [Sandra](https://sandrakla.github.io/SandraKla/) and I am a student at the TU Braunschweig (Master of Biology) 🌱🔬 with the focus on bioinformatics 💻 
 
 A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals 💉
 
