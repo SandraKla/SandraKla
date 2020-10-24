@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) :seedling: :microscope: with the focus on bioinformatics :computer: 
+My name is Sandra and I am a student at the TU Braunschweig (Master of Biology) 🌱🔬 with the focus on bioinformatics 💻 
 
-A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals :syringe:
+A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals 💉
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
 
