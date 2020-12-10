@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Sandra](https://sandrakla.github.io/SandraKla/) and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020 ) with the focus on bioinformatics 💻🌱🔬
+My name is [Sandra](https://sandrakla.github.io/SandraKla/) and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020) with the focus on bioinformatics 💻🌱🔬
 
 A wide and interesting field, which brings new challenges every day! I’m currently working on a Shiny App for Age-dependent Reference Intervals (see AdRI) 💉 
 I'm also working on a Shiny App for processing data from the FreeSurfer program for evaluating MRI images of the brain (see ShinySurfer) 🧠
