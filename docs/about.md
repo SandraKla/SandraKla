@@ -11,11 +11,11 @@
 
 ### Shiny App [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
 - Consistency check for age-dependent reference intervals
-- Paper: soon
+- Paper: *A Tool for Plausibility Checks of Reference Interval Limits* 
 
 ## Cooperation on other Shiny Apps
 
-### Shiny App for [Magnetic Resonance Imaging](https://github.com/SandraKla/MRI_Analysis) (MRI)
+### Shiny App for Magnetic Resonance Imaging (MRI) - [*ShinySurfer*](https://github.com/SandraKla/ShinySurfer)  
 - Software tool for the Analysis and Visualization of MRI images of the brain
 
 ### Shiny App for [GenomeNet](https://github.com/GenomeNet/GenomeNet-responseViewer)
@@ -25,3 +25,7 @@
 
 ### [NewickReader](https://github.com/SandraKla/NewickReader)
 - read and print the simple Newick format
+
+### [ShinySurfer](https://github.com/SandraKla/ShinySurfer_)
+- R-Package for the Analysis and Visualization of MRI images of the brain
+
