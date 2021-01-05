@@ -6,7 +6,7 @@ I’m currently working on a Shiny App for Age-dependent Reference Intervals in 
 I'm also working on a Shiny App/Package for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) 🧠
 At work I deal with databases, SQL and C# 💻
 
-*Newest publication:* A Tool for Plausibility Checks of Reference Interval Limits (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI))
+*Newest publication (soon):* A Tool for Plausibility Checks of Reference Interval Limits (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI))
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
 
