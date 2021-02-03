@@ -2,17 +2,17 @@
 
 My name is Sandra (E-Mail: sandrakla97@web.de) and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020) with the focus on bioinformatics. A wide and interesting field, which brings new challenges every day! 🌱🔬 
 
-I’m currently working on a Shiny App for Age-dependent Reference Intervals in R (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) 💉 
-I'm also working on a Shiny App/Package for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) 🧠
-At work I deal with databases, SQL and C# 💻
+I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in R (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and SQL to create different GUIs in C# to connect to their database 💻
 
-*Newest publication (soon):* A Tool for Plausibility Checks of Reference Interval Limits (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI))
+*Newest publication (soon):
+- *A Tool for Plausibility Checks of Reference Interval Limits* (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) 💉
+- *ShinySurfer: A tool for visualization and statistical analysis of cortical parameters* (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) 🧠
+- [GenomeNet](https://github.com/genomenet)
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
 
-
-
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraKla&layout=compact)
 ![Sandra's github stats](https://github-readme-stats.vercel.app/api?username=SandraKla&show_icons=true&theme=dracula) 
 **SandraKla/SandraKla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
