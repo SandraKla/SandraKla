@@ -4,10 +4,10 @@ My name is Sandra (E-Mail: sandrakla97@web.de) and I was a student at the TU Bra
 
 I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in R (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and SQL to create different GUIs in C# to connect to their database 💻
 
-*Newest publication (soon):
+*Next publication:
 - *A Tool for Plausibility Checks of Reference Interval Limits* (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) 💉
 - *ShinySurfer: A tool for visualization and statistical analysis of cortical parameters* (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) 🧠
-- [GenomeNet](https://github.com/genomenet)
+<!-- [GenomeNet](https://github.com/genomenet)   Probabilistic sequence identification and classification using deep neural models for nucleotide sequences -->
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
 
