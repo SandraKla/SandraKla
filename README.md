@@ -2,11 +2,11 @@
 
 My name is Sandra (E-Mail: sandrakla97@web.de) and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020) with the focus on bioinformatics. A wide and interesting field, which brings new challenges every day! 🌱🔬 
 
-I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in R (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and SQL to create different GUIs in C# to connect to their database 💻
+I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in __R__ (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and __SQL__ to create different GUIs in __C#__ (.NET Framework) to connect to their database 💻
 
-*Next publication:
-- *A Tool for Plausibility Checks of Reference Interval Limits* (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) 💉
-- *ShinySurfer: A tool for visualization and statistical analysis of cortical parameters* (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) 🧠
+Publications:
+- __A Tool for Plausibility Checks of Reference Interval Limits__ (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) (soon) 💉
+- __ShinySurfer: A tool for visualization and statistical analysis of cortical parameters__ (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) accepted for OHBM 2021 🧠
 <!-- [GenomeNet](https://github.com/genomenet)   Probabilistic sequence identification and classification using deep neural models for nucleotide sequences -->
 
 _"Essentially, all models are wrong, but some are useful" - George E.P. Box_
