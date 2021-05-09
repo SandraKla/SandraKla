@@ -2,7 +2,7 @@
 
 My name is Sandra (E-Mail: sandrakla97@web.de) and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020) with the focus on bioinformatics. A wide and interesting field, which brings new challenges every day! 🌱🔬 
 
-I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in __R__ (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and __SQL__ to create different GUIs in __C#__ (.NET Framework) to connect to their database 💻. In my free time I look at some __HTML__, __CSS__ and __Javascript__ for creating websites 🌎.
+I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in __R__ (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and __SQL__ to create different GUIs in __C#__ (.NET Framework) to connect to their database 💻. In my free time I look at some __HTML__, __CSS__ and __Javascript__ for creating websites und __Python__ for data analysis 🌎.
 
 Publications:
 - __A Tool for Plausibility Checks of Reference Interval Limits__ (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) (soon) 💉
