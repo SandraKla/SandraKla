@@ -6,7 +6,7 @@ I’m currently working in my free time on a Shiny App for Age-dependent Referen
 
 Publications:
 - __A Tool for Plausibility Checks of Reference Interval Limits__ (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) (soon) 💉
-- [__ShinySurfer: A tool for visualization and statistical analysis of cortical parameters__](https://ww4.aievolution.com/hbm2101/index.cfm?do=abs.viewAbs&src=ext&abs=1685) (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) accepted for OHBM 2021 and [F1000research.com](https://f1000research.com/posters/10-440) 🧠
+- Klawitter, Sandra & Cai, Yixiao & Ye, Baichao & Klawonn, Frank & Sörös, Peter. (2021). ShinySurfer: A tool for visualization and statistical analysis of cortical parameters. 10.7490/f1000research.1118565.1 (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) accepted for OHBM 2021 and [F1000research.com](https://f1000research.com/posters/10-440) 🧠
 
 <!-- [GenomeNet](https://github.com/genomenet)   Probabilistic sequence identification and classification using deep neural models for nucleotide sequences -->
 
