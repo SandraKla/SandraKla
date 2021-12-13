@@ -2,7 +2,7 @@
 
 My name is Sandra and I was a student at the TU Braunschweig (Master of Biology, finished Sept. 2020) with the focus on bioinformatics. A wide and interesting field, which brings new challenges every day! 🌱🔬 
 
-I’m currently working in my free time on a Shiny App for Age-dependent Reference Intervals in __R__ (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and __SQL__ to create different GUIs in __C#__ (.NET Framework) to create a GUI for their database 💻. In my free time I look at some __HTML__, __CSS__ and __Javascript__ for creating websites und __Python__ for data analysis 🌎.
+I have worked in my free time on a Shiny App for Age-dependent Reference Intervals in __R__ (see [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)) and for processing data from the FreeSurfer program for evaluating MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I deal with databases and __SQL__ to create different GUIs in __C#__ (.NET Framework) to create a GUI for their database 💻. In my free time I look at some __HTML__, __CSS__ and __Javascript__ for creating websites und __Python__ for data analysis 🌎.
 
 Publications:
 - [GenomeNet/deepG: DeepG pre-release version](https://zenodo.org/record/5561229#.YZI8H6LMKUk)
