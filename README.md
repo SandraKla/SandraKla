@@ -13,11 +13,9 @@ Publications:
 - __A Tool for Plausibility Checks of Reference Interval Limits__ (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) (soon) 💉
 
 💬 How to reach me: Write an Issue in this [Repo](https://github.com/SandraKla/SandraKla/issues)!      
-
-![Sandra's github stats](https://github-readme-stats.vercel.app/api?username=SandraKla&show_icons=true&theme=dracula) 
-
 <!--
 [GenomeNet](https://github.com/genomenet)   Probabilistic sequence identification and classification using deep neural models for nucleotide sequences
+![Sandra's github stats](https://github-readme-stats.vercel.app/api?username=SandraKla&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraKla&layout=compact)
 ![Sandra's github stats](https://github-readme-stats.vercel.app/api?username=SandraKla&show_icons=true&theme=dracula) 
 **SandraKla/SandraKla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
