@@ -1,5 +1,3 @@
-# Projects
-
 ## Project Age-dependent-Reference-Intervals
 <img src="./Logo.svg" width="225px" height="150px" align="right"/>
 
