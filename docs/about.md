@@ -29,4 +29,4 @@
 - René Mreches, Alice C. McHardy, Bernd Bischl, Julia Moosbauer, Hüseyin Anil Gündüz, Sandra Klawitter, Zhi-Luo Deng, Eric Franzosa, Curtis Huttenhower, Gary Robertson, Ehsaneddin Asgari, Xiao-Yin To, Martin Binder, & Philipp C. Münch. (2021). GenomeNet/deepG: DeepG pre-release version (v0.1.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.5561229 🧬
 - Klawitter, Sandra & Cai, Yixiao & Ye, Baichao & Klawonn, Frank & Sörös, Peter. (2021). ShinySurfer: A tool for visualization and statistical analysis of cortical parameters. 10.7490/f1000research.1118565.1 (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)) accepted for OHBM 2021 and [F1000research.com](https://f1000research.com/posters/10-440) 🧠
 - __A Tool for Plausibility Checks of Reference Interval Limits__ (see [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)) (soon) 💉
-- zlog and machine learning/exploratory data analysis (soon) 💉
+- __Standardization with zlog values improves machine learning and exploratory data analysis for laboratory data__ (soon) 💉
