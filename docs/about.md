@@ -1,10 +1,10 @@
 ## Project Age-dependent-Reference-Intervals
 <img src="./Logo.svg" width="225px" height="150px" align="right"/>
 
-### Shiny App [AdRI](https://github.com/SandraKla/Age-dependent-Reference-Intervals)
+### Shiny App [AdRI](https://github.com/SandraKla/AdRI)
 - create Age-dependent Reference Intervals using different methods (LMS, GAMLSS, Window-Methods and Regression) 
 
-### Shiny App [AdRI-Generator](https://github.com/SandraKla/Age-dependent-Reference-Intervals_Generator)
+### Shiny App [AdRI-Generator](https://github.com/SandraKla/AdRI_Generator)
 - generating age-dependent analyt-data using functions or given reference intervals
 
 ### Shiny App [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
