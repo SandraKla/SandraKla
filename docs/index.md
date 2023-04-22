@@ -6,7 +6,7 @@ My name is Sandra and I was a student at the TU Braunschweig (Master of Biology,
 
 I am particularly interested in age-dependent reference intervals. I have developed three Shiny Apps on this topic:
 
-- [AdRI](https://github.com/SandraKla/AdRI)
+- [AdRI](https://github.com/SandraKla/AdRI)/[AdRI_GAMLSS](https://github.com/SandraKla/AdRI_GAMLSS)
 - [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
 - [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator)
 
