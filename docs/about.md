@@ -15,6 +15,9 @@
 ### Shiny App [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
 - [A zlog-based algorithm and tool for plausibility checks of reference intervals](https://www.degruyter.com/document/doi/10.1515/cclm-2022-0688/html)
 
+- ### Shiny App [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
+- Reference Limit Estimation Using Routine Laboratory Data
+
 ## Cooperation on other Shiny Apps
 
 ### Shiny App for Magnetic Resonance Imaging (MRI) - [ShinySurfer](https://github.com/SandraKla/ShinySurfer)  
@@ -29,6 +32,7 @@
 - read and print the simple Newick format
 
 ### Package for calculation of Reference Intervals (soon)
+- Reference Limit Estimation Using Routine Laboratory Data
 
 ## Publications
 
