@@ -1,7 +1,5 @@
 ### Welcome!
 
-Hi there 👋
-
 My name is Sandra and I was a student at the TU Braunschweig (Master of Biology, finished Sept 2020) with a focus on Bioinformatics. A broad and interesting field that brings new challenges every day! 🌱🔬 
 
 I am particularly interested in age-dependent reference intervals. I have developed Shiny Apps on this topic:
