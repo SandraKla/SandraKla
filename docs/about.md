@@ -2,7 +2,7 @@
 
 ## Project Age-dependent-Reference-Intervals
 
-<img src="https://github.com/SandraKla/AdRI/blob/master/www/Logo.png" width="300px" height="300px" align="right"/>
+<img src="logo_adri.png" width="300px" height="300px" align="right"/>
 
 ### Shiny App [AdRI](https://github.com/SandraKla/AdRI)
 - create Age-dependent Reference Intervals using different methods (LMS, GAMLSS, Window-Methods and Regression) 
@@ -29,7 +29,7 @@
 
 ## Packages
 
-<img src="https://github.com/reflim/reflimR/blob/main/vignettes/reflimR_files/logo_reflimR.png" width="300px" height="300px" align="right"/>
+<img src="logo_reflimR.png" width="300px" height="300px" align="right"/>
 
 ### [NewickReader](https://github.com/SandraKla/NewickReader)
 - read and print the simple Newick format
