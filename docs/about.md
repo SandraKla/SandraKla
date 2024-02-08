@@ -16,8 +16,8 @@
 ### Shiny App [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
 - [A zlog-based algorithm and tool for plausibility checks of reference intervals](https://www.degruyter.com/document/doi/10.1515/cclm-2022-0688/html)
 
-- ### Shiny App [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
-- Reference Limit Estimation Using Routine Laboratory Data
+### Shiny App [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
+- Shiny App for [reflimR](https://github.com/reflim/reflimR)
 
 ## Cooperation on other Shiny Apps
 
@@ -34,9 +34,8 @@
 ### [NewickReader](https://github.com/SandraKla/NewickReader)
 - read and print the simple Newick format
 
-### [reflimR](https://cran.r-project.org/web/packages/reflimR/index.html)
-
-- Reference Limit Estimation Using Routine Laboratory Data
+### [reflimR](https://github.com/reflim/reflimR)
+- [Reference Limit Estimation Using Routine Laboratory Data](https://cran.r-project.org/web/packages/reflimR/index.html)
 
 ## Publications
 
@@ -45,3 +44,4 @@
 - Klawitter, S., Hoffmann, G., Holdenrieder, S., Kacprowski, T. & Klawonn, F. (2022). A zlog-based algorithm and tool for plausibility checks of reference intervals. Clinical Chemistry and Laboratory Medicine (CCLM). https://doi.org/10.1515/cclm-2022-0688
 - Sandra Klawitter, Frank Klawonn und Georg Hoffmann. (2023). Referenzintervalle bei Kindern - Wenn Tabellen an ihre Grenzen stoßen. Trillium Diagnostik (TD) Heft 1/2023. https://doi.org/10.47184/td.2023.01.11
 - Klawitter, S. & Kacprowski, T. (2023). A visualization tool for continuous reference intervals based on GAMLSS. Journal of Laboratory Medicine. https://doi.org/10.1515/labmed-2023-0033
+- Hoffmann G, Klawitter S, Klawonn F (2024). _reflimR: Reference Limit Estimation Using Routine Laboratory Data_. R package version 1.0.6, <https://CRAN.R-project.org/package=reflimR>.
