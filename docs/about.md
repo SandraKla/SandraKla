@@ -10,6 +10,9 @@
 ### Shiny App [AdRI_GAMLSS](https://github.com/SandraKla/AdRI_GAMLSS)
 - [A visualization tool for continuous reference intervals based on GAMLSS](https://www.degruyter.com/document/doi/10.1515/labmed-2023-0033/html)
 
+### Shiny App [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart)
+- Automated sex and age partitioning for the estimation of reference intervals using a regression tree model 
+
 ### Shiny App [AdRI-Generator](https://github.com/SandraKla/AdRI_Generator)
 - generating age-dependent analyt-data using functions or given reference intervals
 
