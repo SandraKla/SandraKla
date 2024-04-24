@@ -2,7 +2,7 @@
 
 My name is Sandra and I was a student at the TU Braunschweig (Master of Biology, finished Sept 2020) with a focus on Bioinformatics. A broad and interesting field that brings new challenges every day! 🌱🔬 
 
-I am particularly interested in age-dependent reference intervals. I have developed Shiny Apps on this topic:
+I am particularly interested in age-dependent reference intervals. I have developed several Shiny Apps on this topic:
 
 - [AdRI](https://github.com/SandraKla/AdRI)/[AdRI_GAMLSS](https://github.com/SandraKla/AdRI_GAMLSS) ![](https://img.shields.io/github/license/SandraKla/AdRI.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI.svg) ![](https://img.shields.io/github/languages/count/SandraKla/AdRI.svg) ![](https://img.shields.io/github/languages/top/SandraKla/AdRI.svg)
 - [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart) ![](https://img.shields.io/github/license/SandraKla/AdRI_rpart.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_rpart/master.svg)
