@@ -5,7 +5,7 @@ My name is Sandra and I was a student at the TU Braunschweig (Master of Biology,
 I am particularly interested in age-dependent reference intervals. I have developed several Shiny Apps on this topic:
 
 - [AdRI](https://github.com/SandraKla/AdRI)/[AdRI_GAMLSS](https://github.com/SandraKla/AdRI_GAMLSS) ![](https://img.shields.io/github/license/SandraKla/AdRI.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI.svg) ![](https://img.shields.io/github/languages/count/SandraKla/AdRI.svg) ![](https://img.shields.io/github/languages/top/SandraKla/AdRI.svg)
-- [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart) ![](https://img.shields.io/github/license/SandraKla/AdRI_rpart.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_rpart/master.svg)
+- [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart) ![](https://img.shields.io/github/license/SandraKla/AdRI_rpart.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_rpart/main.svg)
 - [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI) ![](https://img.shields.io/github/license/SandraKla/Zlog_AdRI.svg) ![](https://img.shields.io/github/last-commit/SandraKla/Zlog_AdRI/master.svg)
 - [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator) ![](https://img.shields.io/github/license/SandraKla/AdRI_Generator.svg) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_Generator/master.svg)
 - [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny) ![](https://img.shields.io/github/license/SandraKla/reflimR_Shiny.svg) ![](https://img.shields.io/github/last-commit/SandraKla/reflimR_Shiny.svg)
