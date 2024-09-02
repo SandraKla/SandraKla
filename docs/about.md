@@ -11,7 +11,7 @@
 - [A visualization tool for continuous reference intervals based on GAMLSS](https://www.degruyter.com/document/doi/10.1515/labmed-2023-0033/html)
 
 ### Shiny App [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart)
-- Automated sex and age partitioning for the estimation of reference intervals using a regression tree model 
+- [Automated sex and age partitioning for the estimation of reference intervals using a regression tree model](https://www.degruyter.com/document/doi/10.1515/labmed-2024-0083/html)
 
 ### Shiny App [AdRI-Generator](https://github.com/SandraKla/AdRI_Generator)
 - generating age-dependent analyt-data using functions or given reference intervals
@@ -51,3 +51,4 @@
 - Hoffmann G, Klawitter S, Klawonn F (2024). _reflimR: Reference Limit Estimation Using Routine Laboratory Data_. R package version 1.0.6, <https://CRAN.R-project.org/package=reflimR>.
 - Hoffmann G, Klawitter S, Trulson I, Adler J, Holdenrieder S, Klawonn F. A Novel Tool for the Rapid and Transparent Verification of Reference Intervals in Clinical Laboratories. Journal of Clinical Medicine. 2024; 13(15):4397. https://doi.org/10.3390/jcm13154397
 - Al-Mekhlafi, A., Klawitter, S. & Klawonn, F. (2024). Standardization with zlog values improves exploratory data analysis and machine learning for laboratory data. Journal of Laboratory Medicine. https://doi.org/10.1515/labmed-2024-0051
+- Klawitter, S., Böhm, J., Tolios, A. & Gebauer, J. (2024). Automated sex and age partitioning for the estimation of reference intervals using a regression tree model. Journal of Laboratory Medicine. https://doi.org/10.1515/labmed-2024-0083
