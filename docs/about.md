@@ -41,6 +41,9 @@
 - [reflimR - Reference Limit Estimation Using Routine Laboratory Data](https://cran.r-project.org/web/packages/reflimR/index.html)
 - [A Novel Tool for the Rapid and Transparent Verification of Reference Intervals in Clinical Laboratories](https://doi.org/10.3390/jcm13154397)
 
+## Courses
+- [reflimR-workshop](https://github.com/SandraKla/reflimR-workshop)
+
 ## Publications
 
 - René Mreches, Alice C. McHardy, Bernd Bischl, Julia Moosbauer, Hüseyin Anil Gündüz, Sandra Klawitter, Zhi-Luo Deng, Eric Franzosa, Curtis Huttenhower, Gary Robertson, Ehsaneddin Asgari, Xiao-Yin To, Martin Binder, & Philipp C. Münch. (2021). GenomeNet/deepG: DeepG pre-release version (v0.1.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.5561229 🧬
