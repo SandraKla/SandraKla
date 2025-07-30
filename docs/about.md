@@ -41,6 +41,9 @@
 - [reflimR - Reference Limit Estimation Using Routine Laboratory Data](https://cran.r-project.org/web/packages/reflimR/index.html)
 - [A Novel Tool for the Rapid and Transparent Verification of Reference Intervals in Clinical Laboratories](https://doi.org/10.3390/jcm13154397)
 
+### [reflimR.expand](https://github.com/SandraKla/reflimR.expand)
+- Extended package to [reflimR](https://github.com/reflim/reflimR) including the reflimLOD and reflimR_Sliding
+
 ## Courses
 - [reflimR-workshop](https://github.com/SandraKla/reflimR-workshop)
 
