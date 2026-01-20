@@ -9,6 +9,9 @@ I am particularly interested in age-dependent reference intervals. I have develo
 - [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
 - [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator)
 - [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
+- [VeRIf](https://github.com/SandraKla/VeRIf)
+
+---
 
 - [reflimR](https://github.com/reflim/reflimR)
 - [reflimR.expand](https://github.com/SandraKla/reflimR.expand) 
