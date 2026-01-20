@@ -22,6 +22,9 @@
 ### Shiny App [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
 - [A Novel Tool for the Rapid and Transparent Verification of Reference Intervals in Clinical Laboratories](https://doi.org/10.3390/jcm13154397)
 
+### Shiny App [VeRIf](https://github.com/SandraKla/VeRIf)
+- Verification of reference intervals with reflimR and refineR
+
 ## Cooperation on other Shiny Apps
 
 ### Shiny App for Magnetic Resonance Imaging (MRI) - [ShinySurfer](https://github.com/SandraKla/ShinySurfer)  
