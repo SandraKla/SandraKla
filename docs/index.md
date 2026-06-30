@@ -4,17 +4,15 @@ My name is Sandra and I was a student at the TU Braunschweig (Master of Biology,
 
 I am particularly interested in age-dependent reference intervals. I have developed several Shiny Apps/packages on this topic:
 
-- [AdRI](https://github.com/SandraKla/AdRI)
-- [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart)
-- [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)
-- [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator)
-- [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny)
-- [VeRIf](https://github.com/SandraKla/VeRIf)
+- [AdRI](https://github.com/SandraKla/AdRI) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI.svg) 
+- [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)  ![](https://img.shields.io/github/last-commit/SandraKla/Zlog_AdRI.svg)
+- [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_Generator.svg)
+- [VeRIf](https://github.com/SandraKla/VeRIf) ![](https://img.shields.io/github/last-commit/SandraKla/VeRIf.svg)
 
 ---
 
-- [reflimR](https://github.com/reflim/reflimR)
-- [reflimR.expand](https://github.com/SandraKla/reflimR.expand) 
+- [reflimR](https://github.com/reflim/reflimR) ![](https://img.shields.io/github/last-commit/reflim/reflimR.svg)
+- [reflimR.expand](https://github.com/SandraKla/reflimR.expand) ![](https://img.shields.io/github/last-commit/SandraKla/reflimR.expand.svg)
 
 I have been working on a Shiny App for processing data from the FreeSurfer program for analysing MRI images of the brain (see [ShinySurfer](https://github.com/SandraKla/ShinySurfer)). At work I use databases and __SQL__ to create various GUIs in __C#__ (.NET Framework) and data analysis 💻. In my free time I look at some __HTML__, __CSS__ and __Javascript__ to create websites and learn __Python__ and __Unity__ 🌎.
 
