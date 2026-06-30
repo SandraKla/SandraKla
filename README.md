@@ -5,10 +5,8 @@ My name is Sandra and I was a student at the TU Braunschweig (Master of Biology,
 I am particularly interested in age-dependent reference intervals. I have developed several Shiny Apps/packages on this topic:
 
 - [AdRI](https://github.com/SandraKla/AdRI) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI.svg) 
-- [AdRI_rpart](https://github.com/SandraKla/AdRI_rpart) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_rpart.svg)
 - [Zlog_AdRI](https://github.com/SandraKla/Zlog_AdRI)  ![](https://img.shields.io/github/last-commit/SandraKla/Zlog_AdRI.svg)
 - [AdRI_Generator](https://github.com/SandraKla/AdRI_Generator) ![](https://img.shields.io/github/last-commit/SandraKla/AdRI_Generator.svg)
-- [reflimR_Shiny](https://github.com/SandraKla/reflimR_Shiny) ![](https://img.shields.io/github/last-commit/SandraKla/reflimR_Shiny.svg)
 - [VeRIf](https://github.com/SandraKla/VeRIf) ![](https://img.shields.io/github/last-commit/SandraKla/VeRIf.svg)
 
 ---
