@@ -49,3 +49,4 @@
 | Course                                                            | Description                                             |
 | ----------------------------------------------------------------- | ------------------------------------------------------- |
 | [reflimR-workshop](https://github.com/SandraKla/reflimR-workshop) | Workshop materials for learning and applying `reflimR`. |
+| [VeRIf-workshop](https://github.com/SandraKla/VeRIf-workshop) | Workshop materials for learning and applying `VeRIf`. |
